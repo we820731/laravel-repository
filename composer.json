@@ -1,5 +1,5 @@
 {
-    "name": "recca0120/repository",
+    "name": "eveleen/repository",
     "description": "Repository for Laravel 5",
     "keywords": [
         "laravel",
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "recca0120",
-            "email": "recca0120@gmail.com"
+            "name": "eveleen",
+            "email": "we820731@gmail.com"
         }
     ],
     "require": {
